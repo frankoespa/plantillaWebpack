@@ -1,0 +1,35 @@
+{
+    "name": "temwebpack",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "",
+        "build": "webpack --watch"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        
+    },
+    "devDependencies": {
+        "autoprefixer": "^7.2.0",
+        "babel-core": "^6.26.0",
+        "babel-loader": "^7.1.2",
+        "babel-preset-env": "^1.6.1",
+        "css-loader": "^0.28.7",
+        "extract-text-webpack-plugin": "^3.0.2",
+        "file-loader": "^1.1.5",
+        "node-sass": "^4.7.2",
+        "postcss-loader": "^2.0.9",
+        "sass-loader": "^6.0.6",
+        "style-loader": "^0.19.0",
+        "uglifyjs-webpack-plugin": "^1.1.2",
+        "webpack": "^3.8.1"
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions"
+    ]
+}

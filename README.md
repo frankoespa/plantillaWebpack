@@ -1,0 +1,1 @@
+# Plantilla simple de Webpack
